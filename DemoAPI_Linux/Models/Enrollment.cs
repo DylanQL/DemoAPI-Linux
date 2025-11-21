@@ -1,6 +1,6 @@
 namespace DemoAPI_Linux.Models;
 
-public class Enrollement
+public class Enrollment
 {
     public int EnrollmentId { get; set; }
     public int StudentId { get; set; }
